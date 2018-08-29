@@ -1,9 +1,11 @@
-#blog system
-you can in this blog use this features
+# blog system
+simple php & laravel plog
 
- authantication system 
- activation user account with email
- reset password system by email
+## you can in this blog use this features
+
+* authantication system 
+* activation user account with email
+* reset password system by email
  
 
 
